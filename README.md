@@ -1,6 +1,6 @@
  Welcome to PaperWhisperer! This intelligent Q&A system allows you to ask questions about the 'Attention Is All You Need' paper. Using advanced RAG (Retrieval-Augmented Generation) technology, it provides accurate answers with relevant citations.
 
-## To run the project locally:
+### To run the project locally:
 
 1. Install dependencies:
 ```bash
