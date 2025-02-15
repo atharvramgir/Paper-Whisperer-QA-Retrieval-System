@@ -1,0 +1,7 @@
+chromadb>=0.6.3
+nltk>=3.9.1
+openai>=1.63.0
+pandas>=2.2.3
+scikit-learn>=1.6.1
+streamlit>=1.42.0
+trafilatura>=2.0.0
